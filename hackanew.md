@@ -35,7 +35,7 @@ During step 2 we'll also explain this, but we need you to establish a Telegram g
 
 ## 5. Set a consistent schedule
 
-Plan your Node's weekly Thursday meetups with morning introductions, an informal lunch, afternoon demos, and optional evening activities. 
+Plan your Node's weekly Monday meetups with morning introductions, an informal lunch, afternoon demos, and optional evening activities. 
 Consistency helps build a reliable community rhythm, so it's best to decide beforehand and stick to your own schedule/timing.
 
 ## 6. Host the first Meetup

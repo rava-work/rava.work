@@ -1,7 +1,7 @@
 
 ,.-~*´¨¯¨`*·~-.¸-(_Introduction_)-,.-~*´¨¯¨`*·~-.¸
 
-Welcome to rava.work, where creators unite! We're a global community of indie-makers, developers, designers, and hackers, all building our own dreams. Every Thursday, join us to innovate, collaborate, and celebrate the spirit of indie-making.
+Welcome to rava.work, where creators unite! We're a global community of indie-makers, developers, designers, and hackers, all building our own dreams. Every Monday, join us to innovate, collaborate, and celebrate the spirit of indie-making.
 
 ,.-~*´¨¯¨`*·~-.¸-(_Rhythm_)-,.-~*´¨¯¨`*·~-.¸
 
@@ -14,5 +14,5 @@ Welcome to rava.work, where creators unite! We're a global community of indie-ma
 
 rava.work is about inspiration, motivation, accountability, and belonging. We know that building independently can be challenging, but together, we're unstoppable. Let's support each other, learn from one another, and create a vibrant community where everyone thrives.
 
-Join us, build with us, and let's make magic happen every Thursday!
+Join us, build with us, and let's make magic happen every Monday!
 ```
